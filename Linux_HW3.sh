@@ -3,7 +3,7 @@
 # Author | Oleksandr Viytiv
 # E-mail | sviytiv@gmail.com
 
-# Program realize float numbers division in bash. 
+# Program implement float numbers division in bash. 
 # At the beginning it takes 3 arguments :
 #		- first 	- float (divided)
 # 		- second 	- float (divisor)
